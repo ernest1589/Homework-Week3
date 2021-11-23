@@ -13,7 +13,7 @@ This are a couple of screenshots from the code that goes from zero and how then 
     ![alt text](assets/pictures/capture4.png)   
     ```
 
-    ```
+    ```   
 ## Credits
 I used this tutorial from YouTube
 https://www.youtube.com/watch?v=duNmhKgtcsI
